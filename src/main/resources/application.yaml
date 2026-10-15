@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: organization.beenscope
+server:
+  servlet:
+    session:
+      timeout: 1m
+      background-process-interval: 10s
